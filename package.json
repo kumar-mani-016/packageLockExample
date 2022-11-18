@@ -1,0 +1,22 @@
+{
+  "name": "packagelockexample",
+  "version": "1.0.0",
+  "description": "Package lock example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kumar-mani-016/packageLockExample.git"
+  },
+  "author": "Mani Srivastava",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kumar-mani-016/packageLockExample/issues"
+  },
+  "homepage": "https://github.com/kumar-mani-016/packageLockExample#readme",
+  "dependencies": {
+    "data-urls": "^3.0.0"
+  }
+}
